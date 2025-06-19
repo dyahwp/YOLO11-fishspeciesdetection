@@ -1,6 +1,6 @@
 # Real-Time Detection and Sorting of Commercial Marine Fish Species using YOLO11 Algorithm 
 
-Undergraduate Thesis Project (Informatics Engineering, State University of Surabaya) - 2024/2025
+#### Undergraduate Thesis Project (Informatics Engineering, State University of Surabaya) - 2024/2025
 - Developed a real-time fish species detection system to assist the sorting process of commercial marine fish using YOLO11 object detection algorithm.
 - Contructed a custom dataset of 2,905 labeled images by combining four public datasets from Roboflow Universe and Mendeley Data.
 - Applied data pre-processing (auto-orient, resizing) and augmentation (cropping, rotation, noise) to enhance model robustness using tools available on Roboflow.
